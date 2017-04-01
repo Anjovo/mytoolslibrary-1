@@ -6,7 +6,7 @@ import android.widget.ImageView;
 
 import com.ltf.mytoolslibrary.viewbase.utils.PicassoUtil;
 
-/**工具类库
+/**工具类库wwwweee
  * 使用用例**/
 public class MainActivity extends Activity {
 

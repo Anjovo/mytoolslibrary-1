@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Mytoolslibrary.iml" filepath="$PROJECT_DIR$/Mytoolslibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/mytoolslibrary/mytoolslibrary.iml" filepath="$PROJECT_DIR$/mytoolslibrary/mytoolslibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytoolslibrary/mytoolslibrary.iml" filepath="$PROJECT_DIR$/mytoolslibrary/mytoolslibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytoolslibrary-1.iml" filepath="$PROJECT_DIR$/mytoolslibrary-1.iml" />
     </modules>
   </component>
 </project>
